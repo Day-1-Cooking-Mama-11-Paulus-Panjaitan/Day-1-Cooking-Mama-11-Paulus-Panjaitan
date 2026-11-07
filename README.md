@@ -1,4 +1,4 @@
-# Day-1-TIK-Mengajar-Workshop-Git-Github_Paulus-Panjaitan
+Day-1-21_Cooking_Mama_Paulus_Panjaitan
 
 Sosialisasi TIK Day 1 Workshop GitHub
 

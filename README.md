@@ -1,6 +1,6 @@
 # Day-1-TIK-Mengajar-Workshop-Git-Github_Paulus-Panjaitan
 
-Sosialisasi TIK Day 1 Workshop GitHub**
+Sosialisasi TIK Day 1 Workshop GitHub
 
 Nama Peserta: Paulus Panjaitan
 
